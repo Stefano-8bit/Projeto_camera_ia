@@ -52,6 +52,27 @@ while True:
     if not ret:
         break
 
-    results = model(frame, imgsz=640, conf=0.5)[0]  # Executa a detecção
+    results = model(frame, imgsz=640, conf=0.5)[0]
     pessoas_detectadas = [det for det in results.boxes.data.tolist() if int(det[5]) == 0]
     novas_pessoas = {}
+
+    for (x1, y1, x2, y2, score, cls) in pessoas_detectadas:
+        cx, cy = get_center(x1, y1, x2, y2)
+
+        id_encontrado = None
+        for pid, data in tracked_pessoas.items():
+            pcx, pcy = data["centro"]
+            if abs(cx - pcx) < DIST_THRESHOLD and abs(cy - pcy) < DIST_THRESHOLD:
+                id_encontrado = pid
+                break
+
+        if id_encontrado is None:
+            id_encontrado = next_id
+            next_id += 1
+            tracked_pessoas[id_encontrado] = {"tempo": time.time(), "centro": (cx, cy)}
+        else:
+            tracked_pessoas[id_encontrado]["centro"] = (cx, cy)
+
+        novas_pessoas[id_encontrado] = (x1, y1, x2, y2)
+
+  
