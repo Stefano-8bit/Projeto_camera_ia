@@ -26,3 +26,14 @@ def enviar_email_alerta(assunto, corpo):
             print("[EMAIL] Alerta enviado com sucesso.")
     except Exception as e:
         print(f"[ERRO EMAIL] Falha ao enviar email: {e}")
+
+model = YOLO("yolov8n.pt")            
+LIMITE_PESSOAS = 1                    
+LIMITE_TEMPO_PESSOA = 20             
+DIST_THRESHOLD = 50                  
+cap = cv2.VideoCapture(0)            
+
+if not cap.isOpened():
+    print("Erro ao acessar a câmera.")
+    exit()
+
