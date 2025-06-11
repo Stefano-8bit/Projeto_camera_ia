@@ -51,3 +51,7 @@ while True:
     ret, frame = cap.read()
     if not ret:
         break
+
+    results = model(frame, imgsz=640, conf=0.5)[0]  # Executa a detecção
+    pessoas_detectadas = [det for det in results.boxes.data.tolist() if int(det[5]) == 0]
+    novas_pessoas = {}
