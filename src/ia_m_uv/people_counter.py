@@ -81,4 +81,6 @@ while True:
             del emails_pessoas_enviados[pid]
         del tracked_pessoas[pid]
 
-  
+    total_pessoas = len(novas_pessoas)
+    cv2.putText(frame, f"Pessoas detectadas: {total_pessoas}", (10, 25),
+                cv2.FONT_HERSHEY_SIMPLEX, 0.8, (255, 255, 0), 2)
