@@ -46,3 +46,8 @@ emails_pessoas_enviados = {}
 
 def get_center(x1, y1, x2, y2):
     return int((x1 + x2) / 2), int((y1 + y2) / 2)
+
+while True:
+    ret, frame = cap.read()
+    if not ret:
+        break
