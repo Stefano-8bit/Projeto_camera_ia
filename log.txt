@@ -1,0 +1,441 @@
+[2025-06-05 22:57:51] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 0 segundos.
+ - Pessoa ID 1 está na imagem há 0 segundos.
+
+[2025-06-05 22:58:01] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 10 segundos.
+ - Pessoa ID 3 está na imagem há 2 segundos.
+
+[2025-06-05 22:58:11] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 20 segundos.
+ - Pessoa ID 3 está na imagem há 12 segundos.
+
+[2025-06-05 22:58:21] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 30 segundos.
+ - Pessoa ID 3 está na imagem há 22 segundos.
+
+[2025-06-05 22:58:31] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 40 segundos.
+ - Pessoa ID 4 está na imagem há 3 segundos.
+
+[2025-06-05 22:58:34] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 43 segundos.
+ - Pessoa ID 5 está na imagem há 0 segundos.
+
+[2025-06-05 22:58:34] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 43 segundos.
+ - Pessoa ID 6 está na imagem há 0 segundos.
+
+[2025-06-05 22:58:34] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 43 segundos.
+ - Pessoa ID 7 está na imagem há 0 segundos.
+
+[2025-06-05 22:58:38] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 47 segundos.
+ - Pessoa ID 9 está na imagem há 0 segundos.
+
+[2025-06-05 22:58:40] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 49 segundos.
+ - Pessoa ID 10 está na imagem há 0 segundos.
+
+[2025-06-05 22:58:41] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 50 segundos.
+ - Pessoa ID 11 está na imagem há 0 segundos.
+
+[2025-06-05 22:58:41] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 50 segundos.
+ - Pessoa ID 12 está na imagem há 0 segundos.
+
+[2025-06-05 22:58:42] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 51 segundos.
+ - Pessoa ID 13 está na imagem há 0 segundos.
+
+[2025-06-05 22:58:42] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 51 segundos.
+ - Pessoa ID 16 está na imagem há 0 segundos.
+
+[2025-06-05 22:58:43] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 16 está na imagem há 1 segundos.
+ - Pessoa ID 20 está na imagem há 0 segundos.
+
+[2025-06-05 22:58:52] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 20 está na imagem há 8 segundos.
+ - Pessoa ID 23 está na imagem há 0 segundos.
+
+[2025-06-05 22:58:53] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 20 está na imagem há 9 segundos.
+ - Pessoa ID 25 está na imagem há 0 segundos.
+ - Pessoa ID 26 está na imagem há 0 segundos.
+
+[2025-06-05 22:58:58] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 20 está na imagem há 14 segundos.
+ - Pessoa ID 37 está na imagem há 0 segundos.
+
+[2025-06-05 22:59:08] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 20 está na imagem há 24 segundos.
+ - Pessoa ID 42 está na imagem há 8 segundos.
+
+[2025-06-05 22:59:18] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 20 está na imagem há 34 segundos.
+ - Pessoa ID 42 está na imagem há 18 segundos.
+
+[2025-06-05 22:59:28] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 20 está na imagem há 44 segundos.
+ - Pessoa ID 42 está na imagem há 28 segundos.
+
+[2025-06-05 22:59:38] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 20 está na imagem há 54 segundos.
+ - Pessoa ID 42 está na imagem há 38 segundos.
+
+[2025-06-05 22:59:48] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 20 está na imagem há 64 segundos.
+ - Pessoa ID 42 está na imagem há 48 segundos.
+
+[2025-06-05 22:59:58] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 20 está na imagem há 74 segundos.
+ - Pessoa ID 42 está na imagem há 58 segundos.
+
+[2025-06-11 09:23:24] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 6 segundos.
+ - Pessoa ID 1 está na imagem há 0 segundos.
+
+[2025-06-11 09:23:31] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 2 está na imagem há 0 segundos.
+ - Pessoa ID 0 está na imagem há 13 segundos.
+
+[2025-06-11 09:23:37] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 19 segundos.
+ - Pessoa ID 3 está na imagem há 0 segundos.
+
+[2025-06-11 09:23:39] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 21 segundos.
+ - Pessoa ID 4 está na imagem há 0 segundos.
+
+[2025-06-11 09:23:39] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 21 segundos.
+ - Pessoa ID 5 está na imagem há 0 segundos.
+
+[2025-06-11 09:23:42] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 24 segundos.
+ - Pessoa ID 6 está na imagem há 0 segundos.
+
+[2025-06-11 09:23:42] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 24 segundos.
+ - Pessoa ID 7 está na imagem há 0 segundos.
+
+[2025-06-11 09:23:45] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 27 segundos.
+ - Pessoa ID 8 está na imagem há 0 segundos.
+
+[2025-06-11 09:23:46] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 28 segundos.
+ - Pessoa ID 9 está na imagem há 0 segundos.
+
+[2025-06-11 09:23:49] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 30 segundos.
+ - Pessoa ID 10 está na imagem há 0 segundos.
+
+[2025-06-11 09:23:49] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 31 segundos.
+ - Pessoa ID 11 está na imagem há 0 segundos.
+
+[2025-06-11 09:23:49] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 31 segundos.
+ - Pessoa ID 12 está na imagem há 0 segundos.
+
+[2025-06-11 09:23:49] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 31 segundos.
+ - Pessoa ID 13 está na imagem há 0 segundos.
+
+[2025-06-11 09:23:50] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 32 segundos.
+ - Pessoa ID 14 está na imagem há 0 segundos.
+
+[2025-06-11 09:23:50] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 32 segundos.
+ - Pessoa ID 15 está na imagem há 0 segundos.
+
+[2025-06-11 09:23:53] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 35 segundos.
+ - Pessoa ID 16 está na imagem há 0 segundos.
+
+[2025-06-11 09:23:59] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 41 segundos.
+ - Pessoa ID 17 está na imagem há 0 segundos.
+
+[2025-06-11 09:24:03] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 45 segundos.
+ - Pessoa ID 18 está na imagem há 0 segundos.
+
+[2025-06-11 09:24:04] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 46 segundos.
+ - Pessoa ID 19 está na imagem há 0 segundos.
+
+[2025-06-11 09:24:04] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 46 segundos.
+ - Pessoa ID 20 está na imagem há 0 segundos.
+
+[2025-06-11 09:24:07] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 49 segundos.
+ - Pessoa ID 21 está na imagem há 0 segundos.
+
+[2025-06-11 09:24:29] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 71 segundos.
+ - Pessoa ID 22 está na imagem há 0 segundos.
+
+[2025-06-11 09:25:02] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 104 segundos.
+ - Pessoa ID 23 está na imagem há 0 segundos.
+
+[2025-06-11 09:25:04] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 106 segundos.
+ - Pessoa ID 24 está na imagem há 0 segundos.
+
+[2025-06-11 09:25:05] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 107 segundos.
+ - Pessoa ID 25 está na imagem há 0 segundos.
+
+[2025-06-11 09:25:05] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 107 segundos.
+ - Pessoa ID 26 está na imagem há 0 segundos.
+
+[2025-06-11 09:25:05] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 107 segundos.
+ - Pessoa ID 27 está na imagem há 0 segundos.
+
+[2025-06-11 09:25:05] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 107 segundos.
+ - Pessoa ID 28 está na imagem há 0 segundos.
+
+[2025-06-11 09:25:05] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 107 segundos.
+ - Pessoa ID 29 está na imagem há 0 segundos.
+
+[2025-06-11 09:25:06] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 108 segundos.
+ - Pessoa ID 30 está na imagem há 0 segundos.
+
+[2025-06-11 09:25:06] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 108 segundos.
+ - Pessoa ID 31 está na imagem há 0 segundos.
+
+[2025-06-11 09:25:07] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 109 segundos.
+ - Pessoa ID 32 está na imagem há 0 segundos.
+
+[2025-06-11 09:25:14] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 116 segundos.
+ - Pessoa ID 33 está na imagem há 0 segundos.
+
+[2025-06-11 09:25:17] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 119 segundos.
+ - Pessoa ID 34 está na imagem há 0 segundos.
+
+[2025-06-11 09:25:24] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 126 segundos.
+ - Pessoa ID 35 está na imagem há 0 segundos.
+
+[2025-06-11 09:25:24] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 126 segundos.
+ - Pessoa ID 36 está na imagem há 0 segundos.
+
+[2025-06-11 09:25:25] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 127 segundos.
+ - Pessoa ID 37 está na imagem há 0 segundos.
+
+[2025-06-11 09:25:25] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 127 segundos.
+ - Pessoa ID 38 está na imagem há 0 segundos.
+
+[2025-06-11 09:25:25] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 127 segundos.
+ - Pessoa ID 39 está na imagem há 0 segundos.
+
+[2025-06-11 09:25:26] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 127 segundos.
+ - Pessoa ID 40 está na imagem há 0 segundos.
+
+[2025-06-11 09:25:26] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 128 segundos.
+ - Pessoa ID 41 está na imagem há 0 segundos.
+
+[2025-06-11 09:25:26] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 128 segundos.
+ - Pessoa ID 42 está na imagem há 0 segundos.
+
+[2025-06-11 09:25:26] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 128 segundos.
+ - Pessoa ID 43 está na imagem há 0 segundos.
+
+[2025-06-11 09:25:26] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 128 segundos.
+ - Pessoa ID 44 está na imagem há 0 segundos.
+
+[2025-06-11 09:25:27] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 129 segundos.
+ - Pessoa ID 45 está na imagem há 0 segundos.
+
+[2025-06-11 09:25:27] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 129 segundos.
+ - Pessoa ID 46 está na imagem há 0 segundos.
+
+[2025-06-11 09:25:30] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 132 segundos.
+ - Pessoa ID 47 está na imagem há 0 segundos.
+
+[2025-06-11 09:25:40] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 142 segundos.
+ - Pessoa ID 48 está na imagem há 0 segundos.
+
+[2025-06-11 09:25:41] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 143 segundos.
+ - Pessoa ID 49 está na imagem há 0 segundos.
+
+[2025-06-11 09:25:42] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 144 segundos.
+ - Pessoa ID 50 está na imagem há 0 segundos.
+
+[2025-06-11 09:25:46] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 148 segundos.
+ - Pessoa ID 51 está na imagem há 0 segundos.
+
+[2025-06-11 09:25:53] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 155 segundos.
+ - Pessoa ID 52 está na imagem há 0 segundos.
+
+[2025-06-11 09:25:53] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 155 segundos.
+ - Pessoa ID 53 está na imagem há 0 segundos.
+
+[2025-06-11 09:26:00] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 162 segundos.
+ - Pessoa ID 54 está na imagem há 0 segundos.
+
+[2025-06-11 09:26:03] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 165 segundos.
+ - Pessoa ID 55 está na imagem há 0 segundos.
+
+[2025-06-11 09:26:13] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 175 segundos.
+ - Pessoa ID 55 está na imagem há 10 segundos.
+
+[2025-06-11 09:26:19] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 181 segundos.
+ - Pessoa ID 56 está na imagem há 0 segundos.
+
+[2025-06-11 09:26:30] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 192 segundos.
+ - Pessoa ID 57 está na imagem há 0 segundos.
+
+[2025-06-11 09:26:38] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 200 segundos.
+ - Pessoa ID 58 está na imagem há 0 segundos.
+
+[2025-06-11 09:26:52] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 214 segundos.
+ - Pessoa ID 59 está na imagem há 0 segundos.
+
+[2025-06-11 09:27:18] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 240 segundos.
+ - Pessoa ID 60 está na imagem há 0 segundos.
+
+[2025-06-11 09:27:55] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 277 segundos.
+ - Pessoa ID 61 está na imagem há 0 segundos.
+
+[2025-06-11 09:28:47] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 329 segundos.
+ - Pessoa ID 62 está na imagem há 0 segundos.
+
+[2025-06-11 09:28:47] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 329 segundos.
+ - Pessoa ID 63 está na imagem há 0 segundos.
+
+[2025-06-11 09:28:48] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 329 segundos.
+ - Pessoa ID 64 está na imagem há 0 segundos.
+
+[2025-06-11 09:28:48] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 330 segundos.
+ - Pessoa ID 65 está na imagem há 0 segundos.
+
+[2025-06-11 09:29:21] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 363 segundos.
+ - Pessoa ID 66 está na imagem há 0 segundos.
+
+[2025-06-11 09:29:40] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 382 segundos.
+ - Pessoa ID 67 está na imagem há 0 segundos.
+
+[2025-06-11 09:29:41] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 383 segundos.
+ - Pessoa ID 68 está na imagem há 0 segundos.
+
+[2025-06-11 09:29:41] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 383 segundos.
+ - Pessoa ID 69 está na imagem há 0 segundos.
+
+[2025-06-11 09:29:42] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 384 segundos.
+ - Pessoa ID 70 está na imagem há 0 segundos.
+
+[2025-06-11 09:30:02] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 404 segundos.
+ - Pessoa ID 71 está na imagem há 0 segundos.
+
+[2025-06-11 09:30:12] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 414 segundos.
+ - Pessoa ID 71 está na imagem há 10 segundos.
+
+[2025-06-11 09:30:22] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 424 segundos.
+ - Pessoa ID 71 está na imagem há 20 segundos.
+
+[2025-06-11 09:30:29] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 431 segundos.
+ - Pessoa ID 72 está na imagem há 0 segundos.
+
+[2025-06-11 09:30:29] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 431 segundos.
+ - Pessoa ID 73 está na imagem há 0 segundos.
+
+[2025-06-11 09:30:30] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 432 segundos.
+ - Pessoa ID 74 está na imagem há 0 segundos.
+
+[2025-06-11 09:30:31] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 433 segundos.
+ - Pessoa ID 75 está na imagem há 0 segundos.
+
+[2025-06-11 09:30:35] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 437 segundos.
+ - Pessoa ID 76 está na imagem há 0 segundos.
+
+[2025-06-11 09:32:45] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 11 segundos.
+ - Pessoa ID 1 está na imagem há 0 segundos.
+
+[2025-06-11 09:33:32] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 58 segundos.
+ - Pessoa ID 2 está na imagem há 0 segundos.
+
+[2025-06-11 09:33:36] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 0 está na imagem há 62 segundos.
+ - Pessoa ID 3 está na imagem há 0 segundos.
+
+[2025-06-11 09:33:57] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 5 está na imagem há 16 segundos.
+ - Pessoa ID 6 está na imagem há 0 segundos.
+
+[2025-06-11 09:34:00] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 5 está na imagem há 19 segundos.
+ - Pessoa ID 7 está na imagem há 0 segundos.
+
+[2025-06-11 09:34:05] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 5 está na imagem há 24 segundos.
+ - Pessoa ID 8 está na imagem há 0 segundos.
+
+[2025-06-11 09:34:08] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 5 está na imagem há 27 segundos.
+ - Pessoa ID 9 está na imagem há 0 segundos.
+
