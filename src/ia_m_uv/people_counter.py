@@ -75,4 +75,10 @@ while True:
 
         novas_pessoas[id_encontrado] = (x1, y1, x2, y2)
 
+    desaparecidos = set(tracked_pessoas.keys()) - set(novas_pessoas.keys())
+    for pid in desaparecidos:
+        if pid in emails_pessoas_enviados:
+            del emails_pessoas_enviados[pid]
+        del tracked_pessoas[pid]
+
   
