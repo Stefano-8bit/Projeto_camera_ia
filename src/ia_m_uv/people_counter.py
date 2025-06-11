@@ -129,6 +129,12 @@ while True:
                 enviar_email_alerta(f"⚠️ Alerta: Pessoa {pid} Excedeu o Tempo", corpo)
                 emails_pessoas_enviados[pid] = True
 
+    cv2.imshow("Contador de Pessoas com Timer e E-mail", frame)
+    if cv2.waitKey(1) & 0xFF == ord('q'):
+        break
+
+cap.release()
+cv2.destroyAllWindows()
 
 
     
