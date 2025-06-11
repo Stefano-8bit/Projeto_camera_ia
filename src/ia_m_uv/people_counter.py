@@ -84,3 +84,35 @@ while True:
     total_pessoas = len(novas_pessoas)
     cv2.putText(frame, f"Pessoas detectadas: {total_pessoas}", (10, 25),
                 cv2.FONT_HERSHEY_SIMPLEX, 0.8, (255, 255, 0), 2)
+    
+    if total_pessoas > LIMITE_PESSOAS:
+        alerta = "ALERTA: Limite de pessoas ultrapassado!"
+        cv2.putText(frame, alerta, (10, 60),
+                    cv2.FONT_HERSHEY_SIMPLEX, 0.8, (0, 0, 255), 2)
+        if not limite_ja_ultrapassado or time.time() - ultimo_alerta > 10:
+            print(alerta)
+            timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+            with open("log.txt", "a") as f:
+                f.write(f"[{timestamp}] {alerta}\n")
+                for pid in novas_pessoas:
+                    tempo = int(time.time() - tracked_pessoas[pid]["tempo"])
+                    f.write(f" - Pessoa ID {pid} está na imagem há {tempo} segundos.\n")
+                f.write("\n")
+
+            if not email_alerta_enviado:
+                corpo = f"O limite de {LIMITE_PESSOAS} pessoas foi ultrapassado.\n"
+                corpo += f"Foram detectadas {total_pessoas} pessoas na cena.\n"
+                corpo += f"Horário: {timestamp}"
+                enviar_email_alerta("⚠️ Alerta: Limite de Pessoas Excedido", corpo)
+                email_alerta_enviado = True
+
+            limite_ja_ultrapassado = True
+            ultimo_alerta = time.time()
+            
+        else:
+          limite_ja_ultrapassado = False
+          email_alerta_enviado = False
+
+
+    
+                
