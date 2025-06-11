@@ -89,6 +89,7 @@ while True:
         alerta = "ALERTA: Limite de pessoas ultrapassado!"
         cv2.putText(frame, alerta, (10, 60),
                     cv2.FONT_HERSHEY_SIMPLEX, 0.8, (0, 0, 255), 2)
+
         if not limite_ja_ultrapassado or time.time() - ultimo_alerta > 10:
             print(alerta)
             timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
@@ -108,10 +109,26 @@ while True:
 
             limite_ja_ultrapassado = True
             ultimo_alerta = time.time()
-            
-        else:
-          limite_ja_ultrapassado = False
-          email_alerta_enviado = False
+    else:
+        limite_ja_ultrapassado = False
+        email_alerta_enviado = False
+
+    for pid, (x1, y1, x2, y2) in novas_pessoas.items():
+        tempo_na_cena = int(time.time() - tracked_pessoas[pid]["tempo"])
+        cv2.rectangle(frame, (int(x1), int(y1)), (int(x2), int(y2)), (0, 255, 0), 2)
+        cv2.putText(frame, f"ID {pid} - {tempo_na_cena}s", (int(x1), int(y1) - 10),
+                    cv2.FONT_HERSHEY_SIMPLEX, 0.6, (255, 255, 0), 2)
+
+        if tempo_na_cena > LIMITE_TEMPO_PESSOA:
+            if pid not in emails_pessoas_enviados:
+                corpo = (
+                    f"A pessoa ID {pid} está presente na área há {tempo_na_cena} segundos.\n"
+                    f"Isso ultrapassa o limite permitido de {LIMITE_TEMPO_PESSOA} segundos.\n"
+                    f"Horário: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}"
+                )
+                enviar_email_alerta(f"⚠️ Alerta: Pessoa {pid} Excedeu o Tempo", corpo)
+                emails_pessoas_enviados[pid] = True
+
 
 
     
