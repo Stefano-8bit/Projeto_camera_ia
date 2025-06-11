@@ -43,3 +43,6 @@ limite_ja_ultrapassado = False
 ultimo_alerta = 0
 email_alerta_enviado = False
 emails_pessoas_enviados = {}
+
+def get_center(x1, y1, x2, y2):
+    return int((x1 + x2) / 2), int((y1 + y2) / 2)
