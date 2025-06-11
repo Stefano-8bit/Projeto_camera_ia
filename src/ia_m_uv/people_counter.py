@@ -37,3 +37,9 @@ if not cap.isOpened():
     print("Erro ao acessar a câmera.")
     exit()
 
+tracked_pessoas = {}
+next_id = 0
+limite_ja_ultrapassado = False
+ultimo_alerta = 0
+email_alerta_enviado = False
+emails_pessoas_enviados = {}
