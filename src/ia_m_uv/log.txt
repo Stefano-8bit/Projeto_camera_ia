@@ -1,0 +1,16 @@
+[2025-06-13 09:20:27] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 2 está na imagem há 0 segundos.
+ - Pessoa ID 1 está na imagem há 0 segundos.
+
+[2025-06-13 09:21:51] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 4 está na imagem há 8 segundos.
+ - Pessoa ID 5 está na imagem há 0 segundos.
+
+[2025-06-13 09:21:58] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 6 está na imagem há 0 segundos.
+ - Pessoa ID 4 está na imagem há 14 segundos.
+
+[2025-06-13 09:22:00] ALERTA: Limite de pessoas ultrapassado!
+ - Pessoa ID 7 está na imagem há 0 segundos.
+ - Pessoa ID 8 está na imagem há 0 segundos.
+
